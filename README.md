@@ -1,0 +1,1 @@
+This is repository is a migration of all of my LaunchCode LC101 JavaScript work from Replit.
